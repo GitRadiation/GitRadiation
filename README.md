@@ -50,5 +50,12 @@
   </div>
   </div>
 
-------
 
+<a href="https://www.youtube.com/watch?v=aKWFhi8KnJg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<div>
+
+## Contact me :
+
+<a href="mailto:alvaro.pri.2003@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%C3%81lvaro%20Prieto-red?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
