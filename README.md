@@ -46,9 +46,9 @@
 
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+<a href="https://www.pixiv.net/en/users/11963288/artworks">Image by Winick-Lim</a>
   </div>
   </div>
 
 ------
-Credit: [Winick-Lim](https://www.pixiv.net/en/users/11963288/artworks)
+
