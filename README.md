@@ -39,7 +39,14 @@
 - **University Projects**: Digital newspaper management, UI design, and project coordination.
 
 ## 📫 Contact Me
+
 <a href="mailto:alvaro.pri.2003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Alvaro%20Prieto-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>  
-[LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-prieto-cano-311537341) | [GitHub](https://github.com/GitRadiation)
+</a>
+<a href="https://www.linkedin.com/in/%C3%A1lvaro-prieto-cano-311537341" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Alvaro%20Prieto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/GitRadiation" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-GitRadiation-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
